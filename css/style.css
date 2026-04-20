@@ -1,0 +1,28 @@
+.main-header {
+    background-color: #212121;
+    color: #9a9999;
+    padding: 30px 0px;
+}
+
+.main-nav ul li a {
+    color: #9a9999;
+    text-decoration: none;
+}
+
+.container {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.container-flex {
+    display: flex;
+}
+
+.main-nav nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+.main-header .container-flex {
+    justify-content: space-between;
+}
